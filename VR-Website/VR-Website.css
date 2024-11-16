@@ -1,0 +1,253 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+button {
+    border: 0px;
+}
+
+.logo {
+    height: 30px;
+    width: 45px;
+}
+
+#clr {
+    color: #323f4b;
+    font-weight: bold;
+}
+
+.bg-ima {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.button1 {
+    color: white;
+    background-color: #1a2137;
+    font-weight: 200;
+    padding-left: 15px;
+    padding-right: 15px;
+    height: 35px;
+    width: 120px;
+}
+
+.main-heading {
+    color: white;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.ima {
+    height: 210px;
+    width: 160px;
+}
+
+.heading {
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 30px;
+}
+
+.heading1 {
+    color: #323f4b;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Roboto";
+}
+
+.w {
+    text-align: center;
+}
+
+.main-heading-1 {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.ima-1 {
+    height: 60px;
+}
+
+.inner-main-heading {
+    font-size: 19px;
+    font-weight: 500;
+}
+
+.para {
+    color: #7b8794;
+}
+
+.mid {
+    text-align: center;
+    font-family: "Roboto"
+}
+
+.highlight {
+    font-weight: bold;
+    color: #1f2933;
+    font-style: italic;
+}
+
+.ima-2 {
+    width: 100%;
+}
+
+.head-3 {
+    font-weight: bold;
+    font-size: 36px;
+    font-family: "Roboto";
+}
+
+.para-3 {
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 16px;
+    color: #7b8794;
+}
+
+.butn {
+    color: white;
+    height: 35px;
+    background-color: #1a2137;
+    width: 120px;
+}
+
+.bg-col {
+    background-color: #222b36;
+}
+
+.ima-3 {
+    width: 100%;
+}
+
+.butn-1 {
+    color: white;
+    background-color: transparent;
+    width: 130px;
+    border-style: solid;
+    height: 35px;
+    font-weight: 390;
+    border-width: 1px;
+    border-radius: 3px;
+    border-color: white;
+}
+
+.head-4 {
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: "Roboto";
+    text-align: center;
+}
+
+h1 {
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 30px;
+}
+
+.heading-1 {
+    font-weight: bold;
+    color: #959ead;
+    font-size: 12px;
+}
+
+.ima-4 {
+    width: 100%;
+}
+
+.col {
+    color: #1754a1;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.bun {
+    background-color: #1754a1;
+    color: white;
+    height: 35px;
+}
+
+.rgt {
+    text-align: right;
+}
+
+.bg-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png');
+    height: 60vh;
+    background-size: cover;
+}
+
+.bun-1 {
+    border-width: 2px;
+    border-color: white;
+    width: 115px;
+}
+
+.heading-2 {
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.bun1 {
+    background-color: #1754a1;
+    color: white;
+}
+
+.bg-container1 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png');
+    height: 60vh;
+    background-size: cover;
+}
+
+.ima-5 {
+    height: 35px;
+    margin-bottom: 20px;
+}
+
+.bg-col-1 {
+    background-color: #19232d;
+}
+
+.icon {
+    font-size: 18px;
+    color: #5a7184;
+}
+
+.bg-icon {
+    height: 40px;
+    width: 40px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    padding-left: 15px;
+    padding-right: 30px;
+    border-radius: 40px;
+    background-color: #202b36;
+    margin-right: 8px;
+    margin-bottom: 8px;
+}
+
+p {
+    color: #5a7184;
+    font-family: "Roboto";
+}
+
+h1 {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.colu {
+    color: #5a7184;
+    list-style-type: none;
+}
+
+.hr-line {
+    background-color: #5a7184;
+}
+
+.colors {
+    color: #5a7184;
+}
